@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+}
+
+body{
+    transition: opacity ease-in 0.2s;
+}
+.body{
+    opacity: 0;
+    display: block;
+    overflow: hidden;
+    position: relative;
+}
+.btn-primary{
+    background-color: #f9cc16;
+    padding: .5em 1em;
+    border-radius: 1em;
+
+    transition: all .5s;
+}
+.logo{
+    font-size: 100px;
+    color: #f9cc16;
+    margin-right: .15em;
+}
