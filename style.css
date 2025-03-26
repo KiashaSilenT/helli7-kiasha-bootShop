@@ -131,3 +131,64 @@ a,
     padding: 12px 40px;
     font-size: 16px;
 }
+/* Lead */
+.lead{
+    color: #767676;
+    margin: 0;
+    padding: 0;
+    line-height: 30px;
+    font-size: 18px;
+}
+/* .navbar-form & input */
+.navbar-form input {
+    border: none;
+}
+/* .badge */
+.badge{
+    font-weight: 500;
+}
+/* .Full */
+.full{
+    float: left;
+    width: 100%;
+}
+/* Button */
+button {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+/* .layout_padding */
+.layout_padding {
+    padding-top: 90px;
+    padding-bottom: 0px;
+}
+/* .header_section */
+.header_section {
+    width: 100%;
+    float: left;
+    background-image: url(banner-bg.png);
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/* .Logo */
+.logo{
+    width: 54%;
+    float: left;
+    padding: 20px;
+}
+/* .header_main */
+.header_main {
+    width: 100%;
+    display: flex;
+    padding: 0px 30px;
+}
+/* .search_icon */
+.search_icon {
+    text-align: right;
+    float: right;
+    width: 54%;
+    padding-top: 20px;
+}
