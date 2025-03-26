@@ -1,6 +1,11 @@
 /* Start */
-*{
+*,
+*::after,
+*::before{
     box-sizing: border-box ;
+}
+
+*{
     transition: ease all 0.5s;
 }
 /* HTML */
@@ -29,6 +34,12 @@ a{
     text-decoration: none;
     outline: none;
     transition: all .3s ease-in-out
+}
+
+a {
+    color: #222222;
+    text-decoration: none;
+    outline: none;
 }
 /* h1,h2,h3,h4,h5,h6 */
 h1,
@@ -69,4 +80,54 @@ h5{
 
 h6{
     font-size: 13px
+}
+/* h1,h2,h3,h4,h5,h6 & a */
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a{
+    opacity: 1;
+    text-decoration: none;
+    color: #212121;
+}
+/* Img */
+img{
+    max-width: 100%;
+    height: auto;
+}
+/* button:focus */
+button:focus{
+    outline: none;
+}
+/* P */
+p{
+    margin: 20px;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 24px;
+}
+/* a & .btn */
+a,
+.btn{
+    text-decoration: none;
+    outline: none;
+    transition: all .3s ease-in-out;
+}
+/* :focus */
+:focus{
+    outline: 0;
+}
+/* .paddind_bottom_0 */
+.paddind_bottom_0 {
+    padding-bottom: 0 ;
+}
+/* .btn-custom  */
+.btn-custom{
+    margin-top: 20px;
+    background-color: transparent;
+    border: 2px solid #ddd;
+    padding: 12px 40px;
+    font-size: 16px;
 }
