@@ -192,3 +192,44 @@ button {
     width: 54%;
     padding-top: 20px;
 }
+/* .number_text */
+.number_text{
+    width: 90px;
+    float: left;
+    color: #13100e;
+    background-color: #faca16;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px 0px;
+}
+/* .toggle_memu */
+.toggle_memu{
+    background-color: #111;
+    text-align: center;
+    padding: 0px 0px;
+    width: 45px;
+}
+/* .menu_main */
+.menu_main{
+    width: 100%;
+    margin-top: 200px;
+    font-size: 16px;
+    color: #ffffff;
+    padding-left: 10px;
+    float: left;
+}
+/* .menu_main & a */
+.menu_main a{
+    color: #ffffff;
+}
+/* .menu_main & a:hover */
+.menu_main a:hover{
+    color: #ffffff;
+}
+/* .togle_main */
+.togle_main{
+    padding-left: 20px;
+    float: left;
+    width: 100%;
+}
