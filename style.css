@@ -328,3 +328,27 @@ blockquote {
     margin-left: 0px;
     margin-top: 0px;
 }
+/* .buy_bt */
+.buy_bt{
+    width: 210px;
+    margin: 0 auto;
+    text-align: center;
+}
+/* .buy_bt & a */
+.buy_bt a{
+    width: 100%;
+    float: left;
+    text-align: center;
+    background-color: #f9ca16;
+    padding-top: 40px;
+    padding: 4px 0px;
+    color: #070402;
+    font-size: 22px;
+    font-weight: bold;
+}
+/* .buy_bt & a:hover */
+.buy_bt a:hover{
+    color: #070402;
+    background-color: #ffffff;
+}
+
