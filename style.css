@@ -246,6 +246,8 @@ button {
     background-color: #f9ca16;
     transition: 0.5s;
     padding-top: 60px;
+    z-index: 1;	
+    overflow-x: hidden;
 }
 /* .sidebar & a */
 .sidebar a{
