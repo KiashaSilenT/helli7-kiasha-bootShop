@@ -236,3 +236,93 @@ button {
     float: left;
     width: 100%;
 }
+/* .sidebar */
+.sidebar{
+    height: 100%;
+    width: 0;
+    position: fixed;
+    top: 50px;
+    left: 0;
+    background-color: #f9ca16;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+/* .sidebar & a */
+.sidebar a{
+    padding: 8px 8px 8px 32px;
+    color: #000000;
+    font-size: 25px;
+    text-decoration: none;
+    display: block;
+    transition: 0.3s;
+}
+/* .sidebar & a:hover */
+.sidebar a:hover {
+    color: #f1f1f1;
+}
+/* .sidebar & .closebtn */
+.sidebar .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+/* blockquote */
+blockquote {
+    margin: 20px 0 20px;
+    padding: 30px;
+}
+/* .form-control:focus */
+.form-control:focus {
+    border-color: #ffffff;
+    box-shadow: 0 0 0 .2rem rgba(255, 255, 255, .25);
+}
+/* .openbtn */
+.openbtn{
+    font-size: 20px;
+    cursor: pointer;
+    background-color: #111;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+}
+/* .openbtn:hover */
+.openbtn:hover{
+    background-color: #444;
+}
+/* #main */
+#main{
+    transition: margin-left .5s;
+}
+/* .togle_main */
+.togle_main {
+    padding-left: 20px;
+    width: 100%;
+    float: left;
+}
+/* .banner_section */
+.banner_section {
+    width: 100%;
+    float: left;
+    padding-bottom: 150px;
+}
+/* .banner_taital */
+.banner_taital {
+    width: 100%;
+    float: left;
+    font-size: 66px;
+    color: #fdfcfc;
+    font-weight: bold;
+    padding-top: 30px;
+}
+/* .lorem_text */
+.lorem_text {
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #fdfcfc;
+    margin-left: 0px;
+    margin-top: 0px;
+}
