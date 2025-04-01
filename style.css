@@ -757,3 +757,131 @@ textarea#comment::placeholder{
     color: #151515;
     background-color: #ffffff;
 }
+/* .newsletter_text */
+.newsletter_text{
+    width: 100%;
+    float: left;
+    color: #151515;
+    font-size: 40px;
+    font-weight: bold;
+}
+/* .mail_text */
+.mail_text{
+    width: 100%;
+    float: left;
+    color: #151515;
+    font-size: 16px;
+    background-color: #ffffff;
+    padding: 10px 25px;
+    border: 0px;
+    height: auto;
+    border-radius: 50px;
+    text-transform: uppercase;
+}
+/* input.mail_text::placeholder */
+input.mail_text::placeholder{
+    color: #151515;
+}
+/* .subscribe_bt */
+.subscribe_bt{
+    width: 200px;
+    float: right;
+    color: #fdfbfb;
+    font-size: 16px;
+    background-color: #151515;
+    padding: 10px 15px;
+    text-align: center;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+/* .subscribe_bt & a */
+.subscribe_bt a{
+    color: #fdfbfb;
+}
+/* .social_icon */
+.social_icon{
+    width: 45%;
+    float: right;
+}
+/* .social_icon & ul */
+.social_icon ul{
+    margin: 0px;
+    padding: 0px;
+}
+/* .social_icon & li */
+.social_icon li{
+    float: left;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+/* .footer_section */
+.footer_section{
+    width: 100%;
+    float: left;
+    background-color: #111111;
+    height: auto;
+    padding: 50px 0px 40px 0px;
+}
+/* .link_text */
+.link_text{
+    width: 100%;
+    float: left;
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+/* .footer_text */
+.footer_text{
+    width: 50%;
+    float: left;
+    font-size: 16px;
+    color: #727272;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+/* .footer_text_1 */
+.footer_text_1{
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #727272;
+    margin-left: 0px;
+    margin: 10px 0px 0px 0px;
+}
+/* .padding_left_10 */
+.padding_left_10{
+    padding-left: 10px;
+}
+/* .copyright_section */
+.copyright_section{
+    width: 100%;
+    float: left;
+    background-color: #111111;
+    height: auto;
+}
+/* .copyright_text */
+.copyright_text{
+    width: 100%;
+    float: left;
+    color: #555454;
+    text-align: center;
+    font-size: 16px;
+    margin-left: 0px;
+}
+/* .copyright_text & a */
+.copyright_text a{
+    color: #555454;
+}
+/* .copyright_text & a:hover */
+.copyright_text a:hover{
+    color: #ffffff;
+}
+/* .margin_90 */
+.margin_90{
+    margin: 90px 0px;
+}
+/* .margin_top_90 */
+.margin_top_90{
+    margin-top: 90px;
+}
