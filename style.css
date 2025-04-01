@@ -440,7 +440,7 @@ blockquote {
     color: #070402;
     background-color: #f9ca16;
 }
-
+/* .gallery_section */
 .gallery_section{
     width: 100%;
     float: left;
@@ -448,7 +448,7 @@ blockquote {
     height: auto;
     padding: 30px 0px 50px 0px;
 }
-
+/* .gallery_taital */
 .gallery_taital{
     width: 100%;
     float: left;
@@ -456,6 +456,7 @@ blockquote {
     color: #ffffff;
     text-align: center;
 }
+/* .gallery_text */
  .gallery_text{
     width: 100%;
     float: left;
@@ -464,4 +465,189 @@ blockquote {
     margin-left: 0px;
     margin-top: 0px;
     text-align: center;
- }
+}
+/* .gallery_section_2 */
+.gallery_section_2{
+    width: 100%;
+    float: left;
+}
+
+.price_text{
+    width: 100%;
+    float: left;
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 10px;
+    font-weight: bold;
+}
+
+.shoes_text{
+    width: 100%;
+    float: left;
+    font-size: 30px;
+    color: #afafaf;
+    text-align: center;
+}
+
+.boy_bt_1{
+    width: 150px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.boy_bt_1 a{
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #13110f;
+    background-color: #ffffff;
+    text-align: center;
+    padding: 7px 0px;
+}
+
+.boy_bt_1 a:hover{
+    color: #ffffff;
+    background-color: #f9ca16;
+}
+
+.news_section{
+    width: 100%;
+    float: left;
+}
+
+.shoes_taital_1{
+    width: 100%;
+    float: left;
+    font-size: 18px;
+    color: #151515;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+.ipsum_text{
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #13110f;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.news_text{
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #13110f;
+    text-align: center;
+    margin: 0px;
+}
+
+.news_taital{
+    width: 100%;
+    float: left;
+    font-size: 40px;
+    color: #151515;
+    text-align: center;
+}
+
+.news_section_2{
+    width: 100%;
+    float: left;
+}
+
+.image_6{
+    width: 100%;
+    float: left;
+    text-align: center;
+    min-height: 232px;
+    padding-top: 47px;
+}
+
+.image_7{
+    width: 100%;
+    float: left;
+    padding-top: 47px;
+}
+
+.client_section{
+    width: 100%;
+    float: left;
+}
+
+.client_taital{
+    width: 100%;
+    float: left;
+    font-size: 45px;
+    color: #151515;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.client_text{
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #151515;
+    margin-left: 0px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 70px;
+}
+
+.client_section_2{
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #151515;
+    height: auto;
+    display: flex;
+    padding: 40px;
+}
+
+.client_main{
+    width: 100%;
+    float: left;
+}
+
+.client_left{
+    width: 20%;
+    float: left;
+}
+
+.client_right{
+    width: 80%;
+    float: left;
+    text-align: left;
+}
+
+.client_img{
+    width: 100%;
+    float: left;
+    text-align: left;
+}
+
+.sandy_text{
+    width: 100%;
+    float: left;
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.long_text{
+    width: 100%;
+    float: left;
+    font-size: 18px;
+    color: #f9ca16;
+    margin: 0px;
+}
+
+.dummy_text{
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #ffffff;
+    margin: 0px;
+    text-align: left;
+    padding-top: 30px;
+}
