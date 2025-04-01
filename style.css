@@ -651,3 +651,109 @@ blockquote {
     text-align: left;
     padding-top: 30px;
 }
+/* ChatGPT Help */
+#main_slider .carousel-control-prev:hover,
+#main_slider .carousel-control-next:hover,
+#main_slider .carousel-control-prev:focus,
+#main_slider .carousel-control-next:focus{
+    background: #ecebeb;
+    color: #fff;
+}
+#main_slider a.carousel-control-prev{
+    position: absolute;
+    left: 150px;
+    top: 62%;
+    background-color: #ecebeb;
+}
+#main_slider .carousel-control-prev,
+#main_slider .carousel-control-next{
+    width: 65px;
+    height: 65px;
+    background: #ecebeb;
+    opacity: 1;
+    font-size: 30px;
+    color: #000;
+}
+#main_slider a.carousel-control-next{
+    position: absolute;
+    right: 150px;
+    top: 62%;
+}
+/* ChatGPT Help */
+
+/* .contact_section */
+.contact_section{
+    width: 100%;
+    float: left;
+    background-color: #151515;
+    height: auto;
+    padding: 40px 0px;
+    margin-top: 90px;
+}
+/* .touch_taital */
+.touch_taital{
+    width: 100%;
+    float: left;
+    font-size: 40px;
+    color: #ffffff;
+}
+/* .contact_section_2 */
+.contact_section_2{
+    width: 100%;
+    float: left;
+}
+/* .email_text */
+.email_text{
+    width: 100%;
+    float: left;
+    padding: 20px 20px 20px 0px;
+}
+/* .email-bt */
+.email-bt{
+    width: 100%;
+    float: left;
+    font-size: 18px;
+    color: #151515;
+    margin-bottom: 20px;
+    padding: 8px 15px;
+    border: 1px solid #909090;
+}
+/* input.email-bt::placeholder */
+input.email-bt::placeholder{
+    color: #151515;
+}
+/* .massage-bt */
+.massage-bt{
+    width: 100%;
+    float: left;
+    font-size: 18px;
+    color: #151515;
+    margin-bottom: 20px;
+    padding: 40px 15px 8px 15px;
+    border: 1px solid #909090;
+    height: 120px;
+}
+/* textarea#comment::placeholder */
+textarea#comment::placeholder{
+    color: #151515;
+}
+/* .send_btn */
+.send_btn{
+    width: 170px;
+    float: left;
+}
+/* .send_btn & a */
+.send_btn a{
+    width: 100%;
+    float: left;
+    text-align: center;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #f8bc1a;
+    padding: 10px;
+}
+/* .send_btn & a:hover */
+.send_btn a:hover{
+    color: #151515;
+    background-color: #ffffff;
+}
