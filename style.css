@@ -471,7 +471,7 @@ blockquote {
     width: 100%;
     float: left;
 }
-
+/* .price_text */
 .price_text{
     width: 100%;
     float: left;
@@ -481,7 +481,7 @@ blockquote {
     padding-top: 10px;
     font-weight: bold;
 }
-
+/* .shoes_text */
 .shoes_text{
     width: 100%;
     float: left;
@@ -489,13 +489,13 @@ blockquote {
     color: #afafaf;
     text-align: center;
 }
-
+/* .boy_bt_1 */
 .boy_bt_1{
     width: 150px;
     margin: 0 auto;
     text-align: center;
 }
-
+/* .boy_bt_1 & a */
 .boy_bt_1 a{
     width: 100%;
     float: left;
@@ -505,17 +505,17 @@ blockquote {
     text-align: center;
     padding: 7px 0px;
 }
-
+/* .boy_bt_1 & a:hover */
 .boy_bt_1 a:hover{
     color: #ffffff;
     background-color: #f9ca16;
 }
-
+/* .news_section */
 .news_section{
     width: 100%;
     float: left;
 }
-
+/* .shoes_taital_1 */
 .shoes_taital_1{
     width: 100%;
     float: left;
@@ -524,7 +524,7 @@ blockquote {
     font-weight: bold;
     padding-top: 20px;
 }
-
+/* .ipsum_text */
 .ipsum_text{
     width: 100%;
     float: left;
@@ -533,7 +533,7 @@ blockquote {
     margin-top: 0px;
     margin-left: 0px;
 }
-
+/* .news_text */
 .news_text{
     width: 100%;
     float: left;
@@ -542,7 +542,7 @@ blockquote {
     text-align: center;
     margin: 0px;
 }
-
+/* .news_taital */
 .news_taital{
     width: 100%;
     float: left;
@@ -550,12 +550,12 @@ blockquote {
     color: #151515;
     text-align: center;
 }
-
+/* .news_section_2 */
 .news_section_2{
     width: 100%;
     float: left;
 }
-
+/* .image_6 */
 .image_6{
     width: 100%;
     float: left;
@@ -563,18 +563,18 @@ blockquote {
     min-height: 232px;
     padding-top: 47px;
 }
-
+/* .image_7 */
 .image_7{
     width: 100%;
     float: left;
     padding-top: 47px;
 }
-
+/* .client_section */
 .client_section{
     width: 100%;
     float: left;
 }
-
+/* .client_taital */
 .client_taital{
     width: 100%;
     float: left;
@@ -583,7 +583,7 @@ blockquote {
     padding-top: 20px;
     text-align: center;
 }
-
+/* .client_text */
 .client_text{
     width: 100%;
     float: left;
@@ -594,7 +594,7 @@ blockquote {
     margin-top: 0px;
     margin-bottom: 70px;
 }
-
+/* .client_section_2 */
 .client_section_2{
     width: 60%;
     margin: 0 auto;
@@ -604,36 +604,36 @@ blockquote {
     display: flex;
     padding: 40px;
 }
-
+/* .client_main */
 .client_main{
     width: 100%;
     float: left;
 }
-
+/* .client_left */
 .client_left{
     width: 20%;
     float: left;
 }
-
+/* .client_right */
 .client_right{
     width: 80%;
     float: left;
     text-align: left;
 }
-
+/* .client_img */
 .client_img{
     width: 100%;
     float: left;
     text-align: left;
 }
-
+/* .sandy_text */
 .sandy_text{
     width: 100%;
     float: left;
     font-size: 30px;
     color: #ffffff;
 }
-
+/* .long_text */
 .long_text{
     width: 100%;
     float: left;
@@ -641,7 +641,7 @@ blockquote {
     color: #f9ca16;
     margin: 0px;
 }
-
+/* .dummy_text */
 .dummy_text{
     width: 100%;
     float: left;
