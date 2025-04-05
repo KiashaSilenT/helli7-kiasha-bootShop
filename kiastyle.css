@@ -885,3 +885,11 @@ input.mail_text::placeholder{
 .margin_top_90{
     margin-top: 90px;
 }
+/* .carousel-inner */
+.carousel-inner{
+    display: flex;
+}
+/* .carousel-inner & .carousel-item */
+.carousel-inner .carousel-item{
+    flex: 1 0 100%;
+}
